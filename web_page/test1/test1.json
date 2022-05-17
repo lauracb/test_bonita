@@ -1,0 +1,31 @@
+{
+  "modelVersion" : "2.2",
+  "id" : "test1",
+  "name" : "test1",
+  "lastUpdate" : 1652387593173,
+  "rows" : [
+    [ ]
+  ],
+  "assets" : [
+    {
+      "id" : "a8172a20-d66c-485c-901b-1f503946bff3",
+      "name" : "style.css",
+      "type" : "css",
+      "order" : 0,
+      "external" : false
+    },
+    {
+      "id" : "1cd48cba-45e6-41e8-af34-be5bce562a94",
+      "name" : "localization.json",
+      "type" : "json",
+      "order" : 0,
+      "external" : false
+    }
+  ],
+  "inactiveAssets" : [ ],
+  "variables" : { },
+  "hasValidationError" : false,
+  "uuid" : "a7952ed3-277e-44ae-a4a8-3bd74711cb2d",
+  "type" : "page",
+  "description" : "Page generated with Bonita UI designer"
+}
